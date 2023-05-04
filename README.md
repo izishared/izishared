@@ -1,6 +1,13 @@
 ### Hi,I'm Slava 👋
 
-📫 How to reach me: ...
+I'm software engineer. Use Java as the main programming language.
+
+🔭 Wants to know more about me? Hire is the list of my accounts:
+* [leetcode](https://leetcode.com/izishared/)
+* [monkeytype](https://monkeytype.com/profile/izishared)
+* [linkedin](https://www.linkedin.com/in/viacheslav-ganiaev-11109186/)
+
+📫 Use [email](mailto:slava.ganyaev@gmail.com) for contacting me.
 
 <!--
 **izishared/izishared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
